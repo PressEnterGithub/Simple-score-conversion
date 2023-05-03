@@ -1,0 +1,32 @@
+CHINESE：
+版权所有 （C） <2023> <PressEnter>
+
+该程序是免费软件：您可以重新分发它和/或修改
+它根据 GNU 通用公共许可证的条款，由
+自由软件基金会，许可证的第 3 版，或
+任何更高版本。
+
+分发该程序是希望它有用，
+但没有任何保证;甚至没有默示的保证
+适销性或特定用途的适用性。请参阅的
+GNU 通用公共许可证 了解更多详情。
+
+您应该已经收到 GNU 通用公共许可证的副本
+以及这个程序。如果没有，请参阅<https://www.gnu.org/licenses/>。
+
+ENGLISH：
+Copyright (C) <2023>  <PressEnter>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
